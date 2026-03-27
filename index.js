@@ -18,8 +18,8 @@ try {
 }
 
 // ✅ Group Info (change these)
-const GROUP_THREAD_ID = "746691165169900";        // Group ka ID
-const LOCKED_GROUP_NAME = "🤣श्री राम की माँ के भोसड़े से खून निकल की सेवा श्री एस आर के अंसारी 24 घंटे उपलध किरपिया आप अपनी सीता की चूत चोर कर चले जायेंगे आपका गॉड फादर साजिद अंसारी😈 धनियाबाद 🙏";     // Locked name
+const GROUP_THREAD_ID = "26168771192726424";        // Group ka ID
+const LOCKED_GROUP_NAME = "😂HAR 2 SECONDS ME SEETA KI CHUT CHECK HOTI RAHEGI🫡💋🚩";     // Locked name
 
 // ✅ Express Server to keep bot alive (for Render or UptimeRobot)
 const app = express();
